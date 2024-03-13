@@ -1,4 +1,4 @@
-import 'object.dart';
+import '../object.dart';
 import 'user_info.dart';
 
 class Car {

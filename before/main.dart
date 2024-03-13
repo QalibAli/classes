@@ -1,5 +1,5 @@
 import 'index.dart';
-import 'object.dart';
+import '../object.dart';
 
 void main() {
   Car car = Car();
